@@ -23,5 +23,3 @@ More indepth Coverage:
 - Indexes
 - Collections
 - Datatypes
-
-- 
